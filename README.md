@@ -1,6 +1,6 @@
-# Group: SE-2224
-# Creators: Ussenov Bekzat and Zhalgas Srymbetov
-# Topic: Final Project
+### Group: SE-2224
+### Creators: Ussenov Bekzat and Zhalgas Srymbetov
+### Topic: Final Project
 
 # PROJECT OVERVIEW
 
@@ -25,7 +25,7 @@ With our program we would like to help people to be in time for deadlines.
 
 ----------------------------------------------------------------------------------------------------
 
-# CODE OVERVIEW
+### CODE OVERVIEW
 
 We used 6 patterns: Singleton, Adapter, Decorator, Observer, Factory, Strategy. 
         3 rules: YAGNI, KISS, DRY.
@@ -132,7 +132,7 @@ Example of usage CRUD princples to retrieve information from database
 
 --------------------------------------------------------------------------------------------------------
 
-# CONCLUSION 
+### CONCLUSION 
 
 This project was really time consuming, because it required our understanding of princeples for better 
 integration of patterns to our project. Although, we have been spending most of our time to connect database,
@@ -149,7 +149,7 @@ prorammer's path. We would like to say big thanks for her patience and teaching 
 
 ----------------------------------------------------------------------------------------------------------------
 
-# References 
+### References 
 * [Gamma, E., Helm, R., Johnson, R. E., & Vlissides, J. (1993). Design Patterns: Abstraction and reuse of Object-Oriented design. In Lecture Notes in Computer Science (pp. 406–431).](https://doi.org/10.1007/3-540-47910-4_21)
 * [H. Mu and S. Jiang, "Design patterns in software development," 2011 IEEE 2nd International Conference on Software Engineering and Service Science, Beijing, China, 2011, pp. 322-325, ](doi: 10.1109/ICSESS.2011.5982228.)
 * [Edwin, N. M. (2014). Software frameworks, architectural and design patterns. Journal of Software Engineering and Applications, 07(08), 670–678. ](https://doi.org/10.4236/jsea.2014.78061)
