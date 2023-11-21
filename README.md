@@ -31,7 +31,6 @@ We used 6 patterns: Singleton, Adapter, Decorator, Observer, Factory, Strategy.
         3 rules: YAGNI, KISS, DRY.
 
 ### Factory Pattern
-///  Task ///
 
 public interface Task {
     public void id();
