@@ -2,7 +2,7 @@
 ### Creators: Ussenov Bekzat and Zhalgas Srymbetov
 ### Topic: Final Project
 
-# PROJECT OVERVIEW
+### PROJECT OVERVIEW
 
 For the end of Software Design Patterns course we supposed to create a Java application,
 which will cover the usage of 6 patterns and coding aspects like YAGNI, KISS, and DRY. 
