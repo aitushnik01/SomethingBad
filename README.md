@@ -32,6 +32,7 @@ We used 6 patterns: Singleton, Adapter, Decorator, Observer, Factory, Strategy.
 
 ### Factory Pattern
 ///  Task ///
+
 public interface Task {
     public void id();
     public String getTaskName();
