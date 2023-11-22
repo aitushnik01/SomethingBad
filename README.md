@@ -153,3 +153,4 @@ prorammer's path. We would like to say big thanks for her patience and teaching 
 * [Gamma, E., Helm, R., Johnson, R. E., & Vlissides, J. (1993). Design Patterns: Abstraction and reuse of Object-Oriented design. In Lecture Notes in Computer Science (pp. 406–431).](https://doi.org/10.1007/3-540-47910-4_21)
 * [H. Mu and S. Jiang, "Design patterns in software development," 2011 IEEE 2nd International Conference on Software Engineering and Service Science, Beijing, China, 2011, pp. 322-325, ](doi: 10.1109/ICSESS.2011.5982228.)
 * [Edwin, N. M. (2014). Software frameworks, architectural and design patterns. Journal of Software Engineering and Applications, 07(08), 670–678. ](https://doi.org/10.4236/jsea.2014.78061)
+* [Refactoring.Guru. (2023). Adapter. Refactoring.Guru](https://refactoring.guru/design-patterns/adapter)
