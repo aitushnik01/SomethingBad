@@ -44,7 +44,7 @@ public interface Task {
 initialised how task should look like via interface.
 
 ///  Simple Task ///
-
+```Java
 public class SimpleTask implements Task {
     @Override
     public void id() {
@@ -71,33 +71,33 @@ public class SimpleTask implements Task {
         return Priority.LOW;
     }
 }
-
+```
 We wrote class Simple Task to implement task interface. 
 
 ///  Task Factory ///
-
+```Java
 public interface TaskFactory {
     Task createTask();
 }
-
+```
 Initialised the interface for factory method
 
 /// Simple Task Factory ///
-
+```Java
 public class SimpleTaskFactory implements TaskFactory {
     @Override
     public Task createTask() {
         return new SimpleTask();
     }
 }
-
+```
 This is the implementation of factory method  
 
 > [!NOTE]
 > OK, of coursely we can go through every code snippet. However it is better to see once,
 > rather than reading it twice. Here I showed the example of usage of how every pattern used.
 
-
+```Java
 /// Main ///
         while (!exit) {
             System.out.println(ANSI_YELLOW + "\nMenu:");
@@ -126,7 +126,7 @@ To improve readability of CLI, We added ASCII colours for better user experience
             System.out.println("Read tasks error: " + e.getMessage());
         }
     }
-
+```
 Example of usage CRUD princples to retrieve information from database
 
 
