@@ -31,7 +31,7 @@ We used 6 patterns: Singleton, Adapter, Decorator, Observer, Factory, Strategy.
         3 rules: YAGNI, KISS, DRY.
 
 ### Factory Pattern
-
+```Java
 public interface Task {
     public void id();
     public String getTaskName();
@@ -39,6 +39,7 @@ public interface Task {
     public double dueDate();
     public Priority getPriority();
 }
+```
 
 initialised how task should look like via interface.
 
