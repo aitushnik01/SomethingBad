@@ -108,8 +108,9 @@ This is the implementation of factory method
             System.out.println("5. " + ANSI_RED + "Exit");
             System.out.print(ANSI_CYAN + "Enter your choice: ");
             }
+```
 To improve readability of CLI, We added ASCII colours for better user experience. 
-
+```Java
 /// CRUDTask ///
             public static void readTasks() {
         try (Connection conn = DriverManager.getConnection(DB_URL, USERNAME, PASSWORD);
